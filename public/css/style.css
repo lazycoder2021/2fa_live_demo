@@ -1,0 +1,30 @@
+﻿body
+{
+     
+}
+
+.row{
+    //border:1px solid black;
+}
+
+.col-md-4{
+    border:1px solid black;
+    position:relative; 
+    padding:10px;
+}
+
+.hiring{
+    border:1px solid black;
+    padding:4px;
+    border-radius:4px;
+    background-color:lawngreen; 
+    color:black;
+    width:100px;
+    text-align:center;
+}
+
+.job-link{
+    position:absolute;
+    right:10px;
+    top:220px;
+}
